@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B1EB8DB1-ECCE-34A4-D130-73A88C1688C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/script/myfirstscript.cs">
+    <Files>
+      <File FileName="Assets/Scenes/script/myfirstscript.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Yasin Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="script" expanded="True">
+                  <Node name="myfirstscript.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="430131a5-75de-495e-82d9-ebd3abb4b626" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
